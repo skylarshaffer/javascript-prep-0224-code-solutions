@@ -5,10 +5,14 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What does `strictly equal` mean?
-
+  A true return from a strictly equal evaluation means that compared values are identical.
 - What is the logical **and** operator?
-
+  The logical **and** operator is two ampersands (&&) and when used, each listed expression must be true for the evaluation to be true. If any is false, the whole evaluation is false.
 - Can you name some comparison operators?
+  Some comparison operators are:
+  > # <
+  # <=
+  ==
 
 ## Notes
 
